@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Devops**
 
-- 👯 I’m looking to collaborate on [collaborate on Innovative full-stack projects — Open to all ideas!](https://github.com/Elissa-DI)
+- 👯 I’m looking to collaborate on [full-stack projects — Open to all ideas!](https://github.com/Elissa-DI)
 
 - 🤝 I’m looking for help with **getting internships and job**
 
