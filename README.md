@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://elissadusabe.onrender.com/](https://elissadusabe.onrender.com/)
 
-- 💬 Ask me about **Frontend, Backend, and Databases — From UI/UX,APIs to Deployment**
+- 💬 Ask me about **Ask me about Frontend, Backend, Databases, and AI/ML — from UI/UX and APIs to Deployment and Intelligent Systems.**
 
 - 📫 How to reach me **elissafirstborn@gmail.com**
 
