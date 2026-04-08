@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Go Young Africa](https://goyoungafrica.org/)
 
-- 🌱 I’m currently learning **Flutter and Devops**
+- 🌱 I’m currently learning **Golang and Pen Testing**
 
 - 👯 I’m looking to collaborate on [full-stack projects — Open to all ideas!](https://github.com/Elissa-DI)
 
-- 🤝 I’m looking for help with **getting internships and job**
+- 🤝 I’m looking for help with **getting a job**
 
 - 👨‍💻 All of my projects are available at [https://elissadusabe.onrender.com/](https://elissadusabe.onrender.com/)
 
 - 💬 Ask me about **Ask me about Frontend, Backend, Databases, and AI/ML — from UI/UX and APIs to Deployment and Intelligent Systems.**
 
-- 📫 How to reach me **elissafirstborn@gmail.com**
+- 📫 How to reach me **dusabeelissa05@gmail.com.com**
 
 - 📄 Explore my skills, roles, and achievements in detail [https://www.linkedin.com/in/elissa-dusabe-415161256/](https://www.linkedin.com/in/elissa-dusabe-415161256/)
 
